@@ -83,7 +83,7 @@ The Flexmo Job Management System is a web application built using Laravel. The a
    - id=1,name=Employer
    - id=2,name=Job Seeker
    - 
-     *It is important to keep this data as written here , since the backend currently uses static id of the roles table. If you need to change this then Exployer logic can be followed*
+     *It is important to keep this data as written here , since the backend currently uses static id of the roles table. If you need to change this then Employer logic can be followed*
    ```bash
    php artisan db:seed
    ```
