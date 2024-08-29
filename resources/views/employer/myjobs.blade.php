@@ -62,7 +62,7 @@
                                         <option value="">Any</option>
                                         <option value="Full Time">Full Time</option>
                                         <option value="Internship">Internship</option>
-                                        <option value="Contractual">Contract</option>
+                                        <option value="Contract">Contract</option>
                                         <option value="Part Time">Part Time</option>
                                         <option value="Remote">Remote</option>
                                     </select>
