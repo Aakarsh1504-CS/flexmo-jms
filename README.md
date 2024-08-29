@@ -78,6 +78,14 @@ The Flexmo Job Management System is a web application built using Laravel. The a
    ```bash
    php artisan migrate
    ```
+   **Feed the Roles Table**
+   - Fill the roles table with the following data
+   - id=1,name=Employer
+   - id=2,name=Job Seeker
+     *It is important to keep this data as written here , since the backend currently uses static id of the roles table. If you need to change this then Exployer logic can be followed*
+   ```bash
+   php artisan db:seed
+   ```
 
 7. **Seed the Database**
    - If applicable, you can seed the database with initial data:
